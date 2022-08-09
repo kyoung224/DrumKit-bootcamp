@@ -2,8 +2,8 @@
 
 https://kyoung224.github.io/DrumKit-bootcamp/
 
-- event occur by either mouse clicks or keyboard press
-- when image is clicked / correct key is pressed, the audio corresponding to the image / key pressed will play with a little animation where the image greys out for short second
+- Event occur by either mouse clicks or keyboard press
+- When image is clicked / correct key is pressed, the audio corresponding to the image / key pressed will play with a little animation where the image greys out for short second
 
 ## Skills
 
@@ -13,4 +13,4 @@ https://kyoung224.github.io/DrumKit-bootcamp/
 
 ### Credits
 
-- skeleton code / images given by Angela Yu, Appbrewary.co
+- Skeleton code / images given by Angela Yu, Appbrewary.co
